@@ -1,0 +1,16 @@
+ablated_channel_index,ablated_channel,pair,group_a,group_b,positive_class_raw,n,n_group_a,n_group_b,raw_auc,auc,score_flipped_for_auc,kept_sensors,include_derivatives,kept_channel_indices,training_seed
+-1,train_RF,healthy_vs_neuro,healthy,neuro,neuro,224,65,159,0.8673439767779392,0.8673439767779392,False,RF,True,"12,13,14,15",145
+-1,train_RF,healthy_vs_ortho,healthy,ortho,ortho,113,65,48,0.878525641025641,0.878525641025641,False,RF,True,"12,13,14,15",145
+-1,train_RF,neuro_vs_ortho,neuro,ortho,ortho,207,159,48,0.9789046121593292,0.9789046121593292,False,RF,True,"12,13,14,15",145
+-1,train_LF,healthy_vs_neuro,healthy,neuro,neuro,224,65,159,0.9194000967585874,0.9194000967585874,False,LF,True,"8,9,10,11",146
+-1,train_LF,healthy_vs_ortho,healthy,ortho,ortho,113,65,48,0.8,0.8,False,LF,True,"8,9,10,11",146
+-1,train_LF,neuro_vs_ortho,neuro,ortho,ortho,207,159,48,0.9879454926624738,0.9879454926624738,False,LF,True,"8,9,10,11",146
+-1,train_HE,healthy_vs_neuro,healthy,neuro,neuro,224,65,159,0.882825350749879,0.882825350749879,False,HE,True,"0,1,2,3",147
+-1,train_HE,healthy_vs_ortho,healthy,ortho,ortho,113,65,48,0.7298076923076923,0.7298076923076923,False,HE,True,"0,1,2,3",147
+-1,train_HE,neuro_vs_ortho,neuro,ortho,ortho,207,159,48,0.9281970649895177,0.9281970649895177,False,HE,True,"0,1,2,3",147
+-1,train_LB,healthy_vs_neuro,healthy,neuro,neuro,224,65,159,0.8709240445089502,0.8709240445089502,False,LB,True,"4,5,6,7",148
+-1,train_LB,healthy_vs_ortho,healthy,ortho,ortho,113,65,48,0.7897435897435898,0.7897435897435898,False,LB,True,"4,5,6,7",148
+-1,train_LB,neuro_vs_ortho,neuro,ortho,ortho,207,159,48,0.986111111111111,0.986111111111111,False,LB,True,"4,5,6,7",148
+-1,train_HE_LB_LF_RF_no_derivative,healthy_vs_neuro,healthy,neuro,neuro,224,65,159,0.8384131591678763,0.8384131591678763,False,"HE,LB,LF,RF",False,"0,2,4,6,8,10,12,14",149
+-1,train_HE_LB_LF_RF_no_derivative,healthy_vs_ortho,healthy,ortho,ortho,113,65,48,0.8573717948717949,0.8573717948717949,False,"HE,LB,LF,RF",False,"0,2,4,6,8,10,12,14",149
+-1,train_HE_LB_LF_RF_no_derivative,neuro_vs_ortho,neuro,ortho,ortho,207,159,48,0.9934486373165619,0.9934486373165619,False,"HE,LB,LF,RF",False,"0,2,4,6,8,10,12,14",149

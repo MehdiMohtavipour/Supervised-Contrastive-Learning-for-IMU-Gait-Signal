@@ -1,0 +1,11 @@
+Sensor ablation macro AUC
+checkpoint: contrastive_time_derivative_encoder_outputs\time_derivative_contrastive_encoder.pt
+metric: euclidean
+train_class_counts: {'healthy': 297, 'neuro': 627, 'ortho': 166}
+test_class_counts: {'healthy': 63, 'neuro': 157, 'ortho': 46}
+
+               ablation removed_sensors     removed_channel_indices  macro_auc  macro_raw_auc  n_pairs  total_pair_n  macro_auc_percent
+only_RF_remove_LB_HE_LF        LB,HE,LF   0,1,2,3,4,5,6,7,8,9,10,11   0.721981       0.721981        3           532          72.198119
+only_LF_remove_LB_HE_RF        LB,HE,RF 0,1,2,3,4,5,6,7,12,13,14,15   0.825934       0.825934        3           532          82.593384
+           remove_LB_HE           LB,HE             0,1,2,3,4,5,6,7   0.911477       0.911477        3           532          91.147713
+              remove_LB              LB                     4,5,6,7   0.915781       0.915781        3           532          91.578056

@@ -1,0 +1,14 @@
+Retraining-based sensor ablation macro AUC
+checkpoint hyperparameters loaded from: contrastive_time_derivative_encoder_outputs\time_derivative_contrastive_encoder.pt
+metric: euclidean
+epochs_per_condition: 30
+training_seed: 45
+train_class_counts: {'healthy': 295, 'neuro': 625, 'ortho': 164}
+test_class_counts: {'healthy': 65, 'neuro': 159, 'ortho': 48}
+
+                      condition kept_sensors  include_derivatives kept_channel_indices  training_seed  macro_auc  macro_raw_auc  n_pairs  total_pair_n  macro_auc_percent
+                       train_RF           RF                 True          12,13,14,15            145   0.908258       0.908258        3           544          90.825808
+                       train_LF           LF                 True            8,9,10,11            146   0.902449       0.902449        3           544          90.244853
+train_HE_LB_LF_RF_no_derivative  HE,LB,LF,RF                False   0,2,4,6,8,10,12,14            149   0.896411       0.896411        3           544          89.641120
+                       train_LB           LB                 True              4,5,6,7            148   0.882260       0.882260        3           544          88.225958
+                       train_HE           HE                 True              0,1,2,3            147   0.846943       0.846943        3           544          84.694337

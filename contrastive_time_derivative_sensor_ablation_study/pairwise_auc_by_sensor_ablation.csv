@@ -1,0 +1,13 @@
+ablated_channel_index,ablated_channel,pair,group_a,group_b,positive_class_raw,n,n_group_a,n_group_b,raw_auc,auc,score_flipped_for_auc,removed_sensors,removed_channel_indices
+-1,remove_LB,healthy_vs_neuro,healthy,neuro,neuro,220,63,157,0.9050652107976949,0.9050652107976949,False,LB,"4,5,6,7"
+-1,remove_LB,healthy_vs_ortho,healthy,ortho,ortho,109,63,46,0.8512767425810904,0.8512767425810904,False,LB,"4,5,6,7"
+-1,remove_LB,neuro_vs_ortho,neuro,ortho,ortho,203,157,46,0.9909997230684022,0.9909997230684022,False,LB,"4,5,6,7"
+-1,remove_LB_HE,healthy_vs_neuro,healthy,neuro,neuro,220,63,157,0.9126478616924478,0.9126478616924478,False,"LB,HE","0,1,2,3,4,5,6,7"
+-1,remove_LB_HE,healthy_vs_ortho,healthy,ortho,ortho,109,63,46,0.8295376121463078,0.8295376121463078,False,"LB,HE","0,1,2,3,4,5,6,7"
+-1,remove_LB_HE,neuro_vs_ortho,neuro,ortho,ortho,203,157,46,0.9922459152589311,0.9922459152589311,False,"LB,HE","0,1,2,3,4,5,6,7"
+-1,only_RF_remove_LB_HE_LF,healthy_vs_neuro,healthy,neuro,neuro,220,63,157,0.8139722980487313,0.8139722980487313,False,"LB,HE,LF","0,1,2,3,4,5,6,7,8,9,10,11"
+-1,only_RF_remove_LB_HE_LF,healthy_vs_ortho,healthy,ortho,ortho,109,63,46,0.5244996549344375,0.5244996549344375,False,"LB,HE,LF","0,1,2,3,4,5,6,7,8,9,10,11"
+-1,only_RF_remove_LB_HE_LF,neuro_vs_ortho,neuro,ortho,ortho,203,157,46,0.8274716145112158,0.8274716145112158,False,"LB,HE,LF","0,1,2,3,4,5,6,7,8,9,10,11"
+-1,only_LF_remove_LB_HE_RF,healthy_vs_neuro,healthy,neuro,neuro,220,63,157,0.9065817409766455,0.9065817409766455,False,"LB,HE,RF","0,1,2,3,4,5,6,7,12,13,14,15"
+-1,only_LF_remove_LB_HE_RF,healthy_vs_ortho,healthy,ortho,ortho,109,63,46,0.6369910282953761,0.6369910282953761,False,"LB,HE,RF","0,1,2,3,4,5,6,7,12,13,14,15"
+-1,only_LF_remove_LB_HE_RF,neuro_vs_ortho,neuro,ortho,ortho,203,157,46,0.9342287454998615,0.9342287454998615,False,"LB,HE,RF","0,1,2,3,4,5,6,7,12,13,14,15"
