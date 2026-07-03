@@ -13,9 +13,7 @@ enables quantitative assessment of healthy, neurological, and orthopedic gait pa
 
 **Framework**:
 
-<p align="center"> <image1 src="gait_framework.PNG" width="900"> </p>
-
-
+<p align="center"> <img src="gait_framework.PNG" width="900"> </p>
 
 The proposed framework consists of:
 
@@ -32,10 +30,7 @@ Effect size (η²): 0.71
 ICC(2,1): 0.82
 Superior discrimination compared with conventional gait measures.
 
-<p align="center"> <image2 src="contrastive_time_derivative_embedding_plots/pca_category_all_embeddings.png" width="900"> </p>
-
-
-
+<p align="center"> <img src="contrastive_time_derivative_embedding_plots/pca_category_all_embeddings.png" width="900"> </p>
 
 Repository Structure
 ├── data/                # Dataset loaders
