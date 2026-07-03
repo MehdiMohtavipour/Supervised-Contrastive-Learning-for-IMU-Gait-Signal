@@ -13,7 +13,9 @@ enables quantitative assessment of healthy, neurological, and orthopedic gait pa
 
 **Framework**:
 
-<p align="center"> <img src="figures/framework.png" width="900"> </p>
+<p align="center"> <image1 src="gait_framework.PNG" width="900"> </p>
+
+
 
 The proposed framework consists of:
 
@@ -23,23 +25,18 @@ Supervised contrastive training;
 Prototype estimation in the embedding space;
 Construction of the Embedding-Distance Gait Biomarker (EDGB);
 Statistical and clinical validation.
-Dataset
 
-Experiments are conducted on the publicly available Voisard Gait Dataset:
-
-Voisard et al., A Dataset of Clinical Gait Signals with Wearable Sensors from Healthy, Neurological, and Orthopedic Cohorts, Scientific Data, 2025.
-
-Repository:
-https://github.com/CyrilVoisard/dataset_gait_1
-
-Dataset:
-https://doi.org/10.6084/m9.figshare.28806086
-
-Main Results
+**Main Results**
 Macro AUC: 92.85%
 Effect size (η²): 0.71
 ICC(2,1): 0.82
 Superior discrimination compared with conventional gait measures.
+
+<p align="center"> <image2 src="figures/pca_category_all_embeddings.png" width="900"> </p>
+
+
+
+
 Repository Structure
 ├── data/                # Dataset loaders
 ├── models/              # CNN encoder and projection head
@@ -49,6 +46,15 @@ Repository Structure
 ├── figures/             # Paper figures
 ├── notebooks/           # Example notebooks
 └── README.md
+
+**Dataset**
+Experiments are conducted on the publicly available Voisard Gait Dataset:
+Voisard et al., A Dataset of Clinical Gait Signals with Wearable Sensors from Healthy, Neurological, and Orthopedic Cohorts, Scientific Data, 2025.
+Repository:
+https://github.com/CyrilVoisard/dataset_gait_1
+Dataset:
+https://doi.org/10.6084/m9.figshare.28806086
+
 Installation
 git clone https://github.com/<username>/EDGB.git
 cd EDGB
