@@ -43,12 +43,12 @@ Repository Structure
 └── README.md<br>
 
 **Dataset**
-Experiments are conducted on the publicly available Voisard Gait Dataset:
-Voisard et al., A Dataset of Clinical Gait Signals with Wearable Sensors from Healthy, Neurological, and Orthopedic Cohorts, Scientific Data, 2025.
-Repository:
-https://github.com/CyrilVoisard/dataset_gait_1
-Dataset:
-https://doi.org/10.6084/m9.figshare.28806086
+Experiments are conducted on the publicly available Voisard Gait Dataset:<br>
+Voisard et al., A Dataset of Clinical Gait Signals with Wearable Sensors from Healthy, Neurological, and Orthopedic Cohorts, Scientific Data, 2025.<br>
+Repository:<br>
+https://github.com/CyrilVoisard/dataset_gait_1<br>
+Dataset:<br>
+https://doi.org/10.6084/m9.figshare.28806086<br>
 
 Installation
 git clone https://github.com/<username>/EDGB.git
