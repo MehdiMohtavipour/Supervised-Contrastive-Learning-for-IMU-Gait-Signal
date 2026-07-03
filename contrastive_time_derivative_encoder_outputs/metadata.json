@@ -1,0 +1,75 @@
+{
+  "categories": [
+    "healthy",
+    "neuro",
+    "ortho"
+  ],
+  "class_to_index": {
+    "healthy": 0,
+    "neuro": 1,
+    "ortho": 2
+  },
+  "class_counts": {
+    "healthy": 360,
+    "neuro": 784,
+    "ortho": 212
+  },
+  "train_class_counts": {
+    "healthy": 297,
+    "neuro": 627,
+    "ortho": 166
+  },
+  "test_class_counts": {
+    "healthy": 63,
+    "neuro": 157,
+    "ortho": 46
+  },
+  "sensors": [
+    "HE",
+    "LB",
+    "LF",
+    "RF"
+  ],
+  "time_channels": 16,
+  "base_magnitude_channels": 8,
+  "derivative_channels": 8,
+  "channel_names": [
+    "HE_FreeAcc_Magnitude",
+    "HE_FreeAcc_Magnitude_Derivative",
+    "HE_Gyr_Magnitude",
+    "HE_Gyr_Magnitude_Derivative",
+    "LB_FreeAcc_Magnitude",
+    "LB_FreeAcc_Magnitude_Derivative",
+    "LB_Gyr_Magnitude",
+    "LB_Gyr_Magnitude_Derivative",
+    "LF_FreeAcc_Magnitude",
+    "LF_FreeAcc_Magnitude_Derivative",
+    "LF_Gyr_Magnitude",
+    "LF_Gyr_Magnitude_Derivative",
+    "RF_FreeAcc_Magnitude",
+    "RF_FreeAcc_Magnitude_Derivative",
+    "RF_Gyr_Magnitude",
+    "RF_Gyr_Magnitude_Derivative"
+  ],
+  "encoder_features": 16,
+  "temporal_bins": 16,
+  "backbone_output_features": 512,
+  "temporal_pooling": "adaptive_avg_and_max_pool_per_bin_then_flatten",
+  "embedding_dim": 32,
+  "projection_dim": 32,
+  "channels_per_sensor": [
+    "FreeAcc",
+    "Gyr"
+  ],
+  "extra_streams": [
+    "first_derivative_of_each_magnitude_channel"
+  ],
+  "acc_component": "FreeAcc",
+  "sequence_length": 1900,
+  "split_grouping": "subject",
+  "train_size": 0.8,
+  "test_size": 0.2,
+  "loss": "supervised_contrastive",
+  "positive_pairs": "same clinical category",
+  "negative_pairs": "different clinical category"
+}
