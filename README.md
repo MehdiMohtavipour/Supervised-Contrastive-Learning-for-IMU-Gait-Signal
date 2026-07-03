@@ -32,7 +32,7 @@ Effect size (η²): 0.71
 ICC(2,1): 0.82
 Superior discrimination compared with conventional gait measures.
 
-<p align="center"> <image2 src="figures/pca_category_all_embeddings.png" width="900"> </p>
+<p align="center"> <image2 src="contrastive_time_derivative_embedding_plots/pca_category_all_embeddings.png" width="900"> </p>
 
 
 
