@@ -1,0 +1,172 @@
+split,feature_1,feature_2,n,spearman_rho,p_value
+test,Avg stride time,Gait cadence,266,-0.9959495364947358,3.183033460126434e-278
+test,Avg angular acceleration (RF-LF),Std angular acceleration (RF-LF),266,0.9853634510273989,7.0773654838056455e-205
+test,Avg angular velocity peak (RF-LF),Std angular velocity peak (RF-LF),266,0.9796716722907545,3.3059353031125892e-186
+test,Avg acceleration peak (RF-LF),Std acceleration peak (RF-LF),266,0.9771111050894142,1.7671947773767236e-179
+test,Avg jerk (RF-LF),Std jerk (RF-LF),266,0.9764384461259147,7.735983678088508e-178
+test,Max stride time,Std stride time,266,0.9442960126360549,1.945561343063669e-129
+test,Max jerk (RF-LF),Std jerk (RF-LF),266,0.9203712057332222,1.187332889944985e-109
+test,Std angular velocity peak (RF-LF),Avg angular acceleration (RF-LF),266,0.907603437255424,1.672932357806858e-101
+test,Avg acceleration peak (RF-LF),Avg angular velocity peak (RF-LF),266,0.9068089983279165,4.906521164053407e-101
+test,Avg acceleration peak (RF-LF),Std angular velocity peak (RF-LF),266,0.902149480123884,2.237189340682005e-98
+test,Std angular velocity peak (RF-LF),Std angular acceleration (RF-LF),266,0.8998490502278593,4.1073770780211e-97
+test,Std acceleration peak (RF-LF),Std acceleration (RF-LF),266,0.8928540345988991,1.8871265791493725e-93
+test,Std acceleration peak (RF-LF),Std angular velocity peak (RF-LF),266,0.8908041781366708,2.0001412406103146e-92
+test,Std acceleration peak (RF-LF),Avg jerk (RF-LF),266,0.8896016806910216,7.816675111187842e-92
+test,Avg angular velocity peak (RF-LF),Avg angular acceleration (RF-LF),266,0.8840801388674145,3.3553179640495255e-89
+test,Std acceleration peak (RF-LF),Avg angular velocity peak (RF-LF),266,0.8816081968754832,4.584523862608122e-88
+test,Std acceleration peak (RF-LF),Avg angular acceleration (RF-LF),266,0.8792854512792475,5.074948035060148e-87
+test,Avg acceleration peak (RF-LF),Avg jerk (RF-LF),266,0.8721578166318914,6.023033960959606e-84
+test,Avg acceleration peak (RF-LF),Avg angular acceleration (RF-LF),266,0.871159348445313,1.5693459145305027e-83
+test,Std acceleration peak (RF-LF),Std angular acceleration (RF-LF),266,0.8706569263948508,2.533301383990526e-83
+test,Avg angular velocity peak (RF-LF),Std angular acceleration (RF-LF),266,0.8688831470238029,1.3520876648291281e-82
+test,Avg jerk (RF-LF),Std acceleration (RF-LF),266,0.8685822038666732,1.792046690033114e-82
+test,Avg acceleration peak (RF-LF),Std acceleration (RF-LF),266,0.8644557121019636,7.962110720707776e-81
+test,Avg acceleration peak (RF-LF),Std angular acceleration (RF-LF),266,0.8541273684529322,6.274330989265096e-77
+test,Std jerk (RF-LF),Std acceleration (RF-LF),266,0.843589894813353,2.9825048512785216e-73
+test,Avg jerk (RF-LF),Max jerk (RF-LF),266,0.8379095927225313,2.2161138870568065e-71
+test,Std acceleration peak (RF-LF),Std jerk (RF-LF),266,0.8271406733921937,5.032118379576746e-68
+test,Std angular acceleration (RF-LF),Std angular velocity (RF-LF),266,0.8132819859698005,4.939246208549098e-64
+test,Avg angular acceleration (RF-LF),Std angular velocity (RF-LF),266,0.7975417662239126,6.949434437832185e-60
+test,Avg acceleration peak (RF-LF),Std jerk (RF-LF),266,0.7971553858145469,8.692299296263073e-60
+test,Std angular velocity peak (RF-LF),Std acceleration (RF-LF),266,0.7953101962028242,2.5139703016321345e-59
+test,U-turn time,Std angular velocity peak (RF-LF),266,-0.7864180755958359,3.61705377566945e-57
+test,U-turn time,Avg angular velocity peak (RF-LF),266,-0.7833884995302562,1.8627485717294319e-56
+test,Std acceleration (RF-LF),Std angular velocity (RF-LF),266,0.7805059606829242,8.646550299536128e-56
+test,Avg angular velocity peak (RF-LF),Std acceleration (RF-LF),266,0.7784694936408224,2.5222311935036623e-55
+test,Avg jerk (RF-LF),Std angular velocity peak (RF-LF),266,0.7774187429566071,4.3626587405922444e-55
+test,Std angular velocity peak (RF-LF),Std angular velocity (RF-LF),266,0.7771471290054689,5.024038564251412e-55
+test,Std angular acceleration (RF-LF),Std acceleration (RF-LF),266,0.7766045386946271,6.656621782218528e-55
+test,Avg angular acceleration (RF-LF),Std acceleration (RF-LF),266,0.7723250249856143,5.958997417457394e-54
+test,Avg jerk (RF-LF),Avg angular velocity peak (RF-LF),266,0.7628332012987737,6.518187878527563e-52
+test,Std acceleration peak (RF-LF),Std angular velocity (RF-LF),266,0.7555506319328106,2.0641683344662388e-50
+test,Avg angular velocity peak (RF-LF),Std angular velocity (RF-LF),266,0.7548409926661045,2.8717700526270195e-50
+test,Gait cadence,Std acceleration (RF-LF),266,0.7425078152848236,7.492501470303534e-48
+test,U-turn time,Avg acceleration peak (RF-LF),266,-0.7415823901585017,1.1229760410796853e-47
+test,U-turn time,Std acceleration (RF-LF),266,-0.7374810015355739,6.611245908020793e-47
+test,Avg jerk (RF-LF),Avg angular acceleration (RF-LF),266,0.7372447442541057,7.314653307785956e-47
+test,Avg jerk (RF-LF),Std angular acceleration (RF-LF),266,0.7258439718120827,8.478926342491793e-45
+test,U-turn time,Std acceleration peak (RF-LF),266,-0.723633514848789,2.0726959439388414e-44
+test,Avg acceleration peak (RF-LF),Std angular velocity (RF-LF),266,0.7161965758152005,3.9385209373572204e-43
+test,Gait cadence,Std angular acceleration (RF-LF),266,0.7052128250367768,2.574416480623948e-41
+test,U-turn time,Avg angular acceleration (RF-LF),266,-0.7042889240792105,3.62710261313572e-41
+test,Avg stride time,Std acceleration (RF-LF),266,-0.703079519300622,5.66994099412263e-41
+test,Gait cadence,Avg angular acceleration (RF-LF),266,0.6996396329768355,1.995706779089975e-40
+test,Std jerk (RF-LF),Std angular velocity peak (RF-LF),266,0.6956234129950698,8.479958219853789e-40
+test,Max jerk (RF-LF),Std acceleration (RF-LF),266,0.6953396848066743,9.383998200098031e-40
+test,Gait cadence,Std acceleration peak (RF-LF),266,0.6939459360205061,1.5408367914635e-39
+test,U-turn time,Std angular acceleration (RF-LF),266,-0.6879742281772808,1.2496400939074943e-38
+test,Avg stride time,Std angular acceleration (RF-LF),266,-0.6804721174048388,1.6148522307779127e-37
+test,Std jerk (RF-LF),Avg angular velocity peak (RF-LF),266,0.6772308128812597,4.765304275476843e-37
+test,Gait cadence,Std angular velocity (RF-LF),266,0.6748117987686083,1.0590518628366162e-36
+test,Avg stride time,Avg angular acceleration (RF-LF),266,-0.6738539172587984,1.4499154528134002e-36
+test,Gait cadence,Avg jerk (RF-LF),266,0.6674680136014187,1.1425921635681152e-35
+test,Avg stride time,Std acceleration peak (RF-LF),266,-0.6557791535940559,4.391934424803602e-34
+test,Avg stride time,Std angular velocity (RF-LF),266,-0.6485016837995564,3.928831188407703e-33
+test,U-turn time,Avg jerk (RF-LF),266,-0.6435303504832484,1.6963508862268895e-32
+test,Gait cadence,Avg acceleration peak (RF-LF),266,0.6376755689396126,9.177844574234806e-32
+test,U-turn time,Std angular velocity (RF-LF),266,-0.6362403035621067,1.3806284334549734e-31
+test,Std jerk (RF-LF),Avg angular acceleration (RF-LF),266,0.6333868378812199,3.08938164794291e-31
+test,Std jerk (RF-LF),Std angular acceleration (RF-LF),266,0.6311947985290766,5.703087922633417e-31
+test,Avg stride time,Avg jerk (RF-LF),266,-0.62616525830667,2.285570252867301e-30
+test,Std acceleration peak (RF-LF),Max jerk (RF-LF),266,0.6224413057234989,6.285531489906085e-30
+test,Gait cadence,Std jerk (RF-LF),266,0.6162916881591137,3.24398551041827e-29
+test,Avg jerk (RF-LF),Std angular velocity (RF-LF),266,0.6046136116207415,6.640920675658014e-28
+test,Gait cadence,Avg angular velocity peak (RF-LF),266,0.60313274475114,9.652744042644039e-28
+test,Gait cadence,Std angular velocity peak (RF-LF),266,0.6020319420865148,1.2730339051325172e-27
+test,Avg stride time,Avg acceleration peak (RF-LF),266,-0.5960623303109975,5.605260778962723e-27
+test,U-turn time,Std jerk (RF-LF),266,-0.5925969378643566,1.3067211487513074e-26
+test,Max stride time,Avg acceleration peak (RF-LF),266,-0.5920835238530606,1.4800155993505807e-26
+test,Max stride time,Avg angular velocity peak (RF-LF),266,-0.587814333733757,4.133048707975343e-26
+test,Avg acceleration peak (RF-LF),Max jerk (RF-LF),266,0.5849859968981176,8.093514167409053e-26
+test,Max stride time,Std acceleration peak (RF-LF),266,-0.5815006124939178,1.8361597821073015e-25
+test,Max stride time,Gait cadence,266,-0.5797907491814109,2.734587120552912e-25
+test,Avg stride time,Std jerk (RF-LF),266,-0.5739876361437324,1.0386441847412947e-24
+test,Avg stride time,Avg angular velocity peak (RF-LF),266,-0.5637979670075143,1.015749431669595e-23
+test,Avg stride time,Std angular velocity peak (RF-LF),266,-0.5632566517932571,1.144047136167054e-23
+test,Avg stride time,Max stride time,266,0.5605601186781132,2.062374616042487e-23
+test,Max stride time,Std angular velocity peak (RF-LF),266,-0.5524824895263272,1.1673952775003702e-22
+test,Std jerk (RF-LF),Std angular velocity (RF-LF),266,0.5452034793364585,5.350086394124875e-22
+test,Max stride time,Avg angular acceleration (RF-LF),266,-0.5405309251030243,1.3943177700170994e-21
+test,Max stride time,Avg jerk (RF-LF),266,-0.5362872398160367,3.285553932505228e-21
+test,Proposed Biomarker,Max jerk (RF-LF),266,0.531543082850225,8.444765693720821e-21
+test,Max stride time,Std angular acceleration (RF-LF),266,-0.5190800858836067,9.406439309807832e-20
+test,Mean acceleration (RF-LF),Mean angular velocity (RF-LF),266,0.5084718367893446,6.779498747822142e-19
+test,Std stride time,Avg angular velocity peak (RF-LF),266,-0.4940839484762362,8.868811558953398e-18
+test,Max stride time,Std jerk (RF-LF),266,-0.48723092652893396,2.894184118226548e-17
+test,Std stride time,Avg acceleration peak (RF-LF),266,-0.4810216127556542,8.26238367060541e-17
+test,U-turn time,Gait cadence,266,-0.4806328355514478,8.817059120016665e-17
+test,Max stride time,Std acceleration (RF-LF),266,-0.47498446248197657,2.245327263769004e-16
+test,Max jerk (RF-LF),Std angular velocity peak (RF-LF),266,0.4683405567129611,6.59627137148179e-16
+test,Max stride time,Std angular velocity (RF-LF),266,-0.46328475827779464,1.4746958468118516e-15
+test,Proposed Biomarker,Std jerk (RF-LF),266,0.46134362830969733,2.0013690791416966e-15
+test,Std stride time,Std acceleration peak (RF-LF),266,-0.45304920133702925,7.221803967485582e-15
+test,Std stride time,Std angular velocity peak (RF-LF),266,-0.45291721991006767,7.36872179166205e-15
+test,Max jerk (RF-LF),Avg angular velocity peak (RF-LF),266,0.4432557969016245,3.144143061000595e-14
+test,Gait cadence,Max jerk (RF-LF),266,0.43990694981724415,5.1439477891993676e-14
+test,Avg stride time,U-turn time,266,0.4378139803236176,6.977919832666281e-14
+test,Max stride time,U-turn time,266,0.42445525389449257,4.654148828001179e-13
+test,Std stride time,Avg jerk (RF-LF),266,-0.4232271371666393,5.51822097369897e-13
+test,U-turn time,Max jerk (RF-LF),266,-0.41538953237591114,1.6098412109949914e-12
+test,Std stride time,Avg angular acceleration (RF-LF),266,-0.4145692830762512,1.797845567737041e-12
+test,Proposed Biomarker,Avg jerk (RF-LF),266,0.4073103045933681,4.7165259058326375e-12
+test,Avg stride time,Max jerk (RF-LF),266,-0.4003813434978226,1.1590835141885796e-11
+test,Std stride time,Gait cadence,266,-0.3931708153720139,2.8905509924041568e-11
+test,Max jerk (RF-LF),Std angular acceleration (RF-LF),266,0.392017674034567,3.338591419387764e-11
+test,Max jerk (RF-LF),Avg angular acceleration (RF-LF),266,0.3837277102019412,9.255163668985783e-11
+test,Std stride time,Std angular acceleration (RF-LF),266,-0.38220960499616646,1.1120918338425567e-10
+test,Std stride time,Std jerk (RF-LF),266,-0.3757399647093141,2.406939604701382e-10
+test,Avg stride time,Std stride time,266,0.3747303984038581,2.71099540276866e-10
+test,Max jerk (RF-LF),Std angular velocity (RF-LF),266,0.3520885104429507,3.5152780453239493e-09
+test,Max stride time,Max jerk (RF-LF),266,-0.32459489991995893,6.080466000525394e-08
+test,Std stride time,U-turn time,266,0.3190669939271937,1.043449089891201e-07
+test,Std stride time,Std acceleration (RF-LF),266,-0.315827410374569,1.424757263179004e-07
+test,Std stride time,Std angular velocity (RF-LF),266,-0.3099048235386006,2.494157641868934e-07
+test,Proposed Biomarker,U-turn time,266,-0.2597232639152622,1.7879063885279102e-05
+test,Proposed Biomarker,Avg acceleration peak (RF-LF),266,0.23831223171347918,8.667549078789895e-05
+test,Std stride time,Max jerk (RF-LF),266,-0.23573317436053562,0.00010384554657716435
+test,Proposed Biomarker,Std acceleration (RF-LF),266,0.20757139828583543,0.0006577217185349443
+test,Proposed Biomarker,Std acceleration peak (RF-LF),266,0.19182288985129775,0.0016720205646098343
+test,Proposed Biomarker,Std angular velocity peak (RF-LF),266,0.19008609078345642,0.0018453750108200168
+test,Proposed Biomarker,Avg angular velocity peak (RF-LF),266,0.16815804616480784,0.00597294395216467
+test,Std angular velocity peak (RF-LF),Mean angular velocity (RF-LF),266,0.16678849976329418,0.006399994488017041
+test,Proposed Biomarker,Std stride time,266,-0.15464939644000822,0.011550445946864081
+test,Avg acceleration peak (RF-LF),Mean angular velocity (RF-LF),266,0.14096030833921777,0.02146748593121423
+test,Avg angular acceleration (RF-LF),Mean angular velocity (RF-LF),266,0.1404349329971101,0.021963249000216362
+test,Std acceleration peak (RF-LF),Mean angular velocity (RF-LF),266,0.13951170059981413,0.022858459663184023
+test,Proposed Biomarker,Max stride time,266,-0.13944384496317908,0.02292548180731615
+test,Std angular acceleration (RF-LF),Mean angular velocity (RF-LF),266,0.13900545300074438,0.023362592834178107
+test,Avg angular velocity peak (RF-LF),Mean angular velocity (RF-LF),266,0.13150674013845298,0.032030561718310875
+test,Avg jerk (RF-LF),Mean angular velocity (RF-LF),266,0.12741977904268834,0.037816376331856576
+test,Std jerk (RF-LF),Mean angular velocity (RF-LF),266,0.12297895470072255,0.04508153160101667
+test,Std acceleration (RF-LF),Mean angular velocity (RF-LF),266,0.1130229644494956,0.06568467418451038
+test,Proposed Biomarker,Avg stride time,266,0.10935746872334705,0.07499246677911652
+test,Max jerk (RF-LF),Mean angular velocity (RF-LF),266,0.10082902826283431,0.10081579371118231
+test,Avg stride time,Mean acceleration (RF-LF),266,-0.0938263764923838,0.12690421389673281
+test,U-turn time,Mean angular velocity (RF-LF),266,-0.09112447070702794,0.1382653980102174
+test,Gait cadence,Mean acceleration (RF-LF),266,0.0880195817269073,0.15226543286304844
+test,Std acceleration peak (RF-LF),Mean acceleration (RF-LF),266,0.08461954122108323,0.16879912439308076
+test,Mean angular velocity (RF-LF),Std angular velocity (RF-LF),266,0.07950669550705257,0.1961302698778059
+test,Avg jerk (RF-LF),Mean acceleration (RF-LF),266,0.07136018974721094,0.24611085186644407
+test,Avg acceleration peak (RF-LF),Mean acceleration (RF-LF),266,0.0698739641131661,0.2561108208775378
+test,Proposed Biomarker,Gait cadence,266,-0.06656078388119349,0.2794031686297917
+test,Std jerk (RF-LF),Mean acceleration (RF-LF),266,0.05473563068153742,0.37390971976688686
+test,Avg angular acceleration (RF-LF),Mean acceleration (RF-LF),266,0.05397115855145602,0.38062966539689225
+test,Std angular velocity peak (RF-LF),Mean acceleration (RF-LF),266,0.05178740788796243,0.4002280715841792
+test,Std angular acceleration (RF-LF),Mean acceleration (RF-LF),266,0.04970503426256972,0.4194671872816822
+test,Mean acceleration (RF-LF),Std acceleration (RF-LF),266,0.049437245860039114,0.4219799318497345
+test,Proposed Biomarker,Mean acceleration (RF-LF),266,0.04183524318534305,0.4968867497744017
+test,Proposed Biomarker,Avg angular acceleration (RF-LF),266,0.03864027250657914,0.5303510294925826
+test,Max jerk (RF-LF),Mean acceleration (RF-LF),266,0.03790449199105459,0.5382157179468569
+test,U-turn time,Mean acceleration (RF-LF),266,0.03213588620041643,0.6018186954292094
+test,Proposed Biomarker,Std angular acceleration (RF-LF),266,0.031860125191078184,0.6049417730532074
+test,Std stride time,Mean acceleration (RF-LF),266,-0.029440465696783828,0.6326489135822371
+test,Proposed Biomarker,Mean angular velocity (RF-LF),266,0.029224322200455555,0.6351498458262339
+test,Std stride time,Mean angular velocity (RF-LF),266,-0.02579535546519468,0.6753638325824378
+test,Max stride time,Mean acceleration (RF-LF),266,-0.024738412104956798,0.6879544016668111
+test,Avg angular velocity peak (RF-LF),Mean acceleration (RF-LF),266,0.022067995938542563,0.7201437019349081
+test,Proposed Biomarker,Std angular velocity (RF-LF),266,0.01594010466063399,0.7958147556441016
+test,Max stride time,Mean angular velocity (RF-LF),266,-0.0076007588405881095,0.9018041325328785
+test,Avg stride time,Mean angular velocity (RF-LF),266,0.007336447011600592,0.9052025245707441
+test,Gait cadence,Mean angular velocity (RF-LF),266,0.004680244401784593,0.9394402538393233
+test,Mean acceleration (RF-LF),Std angular velocity (RF-LF),266,-0.0021521898874810514,0.9721308633545198

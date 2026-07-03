@@ -1,0 +1,196 @@
+plot_group,split,feature_1,feature_2,n,spearman_rho,p_value
+HE,test,Avg jerk,Std jerk,266,0.9855496277263012,1.3221823669615833e-205
+HE,test,Avg angular acceleration,Std angular acceleration,266,0.9796933503995309,2.875720162926855e-186
+HE,test,Max jerk,Std jerk,266,0.9026640164116034,1.1553668534085073e-98
+HE,test,Avg angular acceleration,Std angular velocity,266,0.8572075726734687,4.652813743052612e-78
+HE,test,Mean acceleration,Std acceleration,266,0.85218654012602,3.134787200829561e-76
+HE,test,Avg jerk,Max jerk,266,0.8390572573048054,9.406956571544598e-72
+HE,test,Std angular acceleration,Std angular velocity,266,0.8256334072408071,1.4220843483219376e-67
+HE,test,Avg jerk,Avg angular acceleration,266,0.7047212051753297,3.09009795957668e-41
+HE,test,Std jerk,Avg angular acceleration,266,0.6924979397826769,2.5716364454224497e-39
+HE,test,Mean angular velocity,Std angular velocity,266,0.690591541393233,5.024445633840241e-39
+HE,test,Avg jerk,Std angular acceleration,266,0.6818552635563894,1.0133022838223446e-37
+HE,test,Std jerk,Std angular acceleration,266,0.6716576261514503,2.966318477793949e-36
+HE,test,Avg jerk,Std acceleration,266,0.6454124499291476,9.781431024294582e-33
+HE,test,Std jerk,Std angular velocity,266,0.6277205628019593,1.491898408763198e-30
+HE,test,Avg jerk,Std angular velocity,266,0.623233194285268,5.0747024609946496e-30
+HE,test,Avg angular acceleration,Mean angular velocity,266,0.6216774711848522,7.722001989105949e-30
+HE,test,Std jerk,Std acceleration,266,0.617515274299805,2.3470231829916487e-29
+HE,test,Std angular acceleration,Mean angular velocity,266,0.6026185880218885,1.09861624827783e-27
+HE,test,Avg jerk,Mean angular velocity,266,0.5862171859583237,6.045563281778088e-26
+HE,test,Std jerk,Mean angular velocity,266,0.5763625727451979,6.034841530849196e-25
+HE,test,Mean acceleration,Mean angular velocity,266,0.5736757624398074,1.1150386826739893e-24
+HE,test,Max jerk,Avg angular acceleration,266,0.5366801570387703,3.0364286591620454e-21
+HE,test,Max jerk,Std angular acceleration,266,0.5207837273914062,6.805449513525294e-20
+HE,test,Avg jerk,Mean acceleration,266,0.5158806492593578,1.719052736706867e-19
+HE,test,Avg angular acceleration,Std acceleration,266,0.5112836150159159,4.0434013285406e-19
+HE,test,Max jerk,Std angular velocity,266,0.5047738064686839,1.3281775173201526e-18
+HE,test,Max jerk,Std acceleration,266,0.5042210146948886,1.4676083260974382e-18
+HE,test,Std acceleration,Mean angular velocity,266,0.5017720259946028,2.278954033800086e-18
+HE,test,Proposed Biomarker,Max jerk,266,0.49028900425751676,1.7129041816389244e-17
+HE,test,Std angular acceleration,Std acceleration,266,0.47977639668388694,1.0170911640798968e-16
+HE,test,Std acceleration,Std angular velocity,266,0.4767306224008187,1.6849216330971305e-16
+HE,test,Std jerk,Mean acceleration,266,0.4728566168442093,3.1789158741864787e-16
+HE,test,Max jerk,Mean angular velocity,266,0.4671839658506028,7.938524760522206e-16
+HE,test,Avg angular acceleration,Mean acceleration,266,0.3861486448791047,6.891992698832759e-11
+HE,test,Proposed Biomarker,Std jerk,266,0.3831857574825339,9.883339302885114e-11
+HE,test,Std angular acceleration,Mean acceleration,266,0.3587813077319119,1.682777550054753e-09
+HE,test,Mean acceleration,Std angular velocity,266,0.35638141357209,2.195861274400448e-09
+HE,test,Max jerk,Mean acceleration,266,0.3370426277693386,1.7313749862557127e-08
+HE,test,Proposed Biomarker,Std angular velocity,266,0.33324959632492296,2.5539415289020087e-08
+HE,test,Proposed Biomarker,Avg jerk,266,0.33264643482779455,2.7154793745122348e-08
+HE,test,Proposed Biomarker,Avg angular acceleration,266,0.3000119548393987,6.186124044611827e-07
+HE,test,Proposed Biomarker,Std acceleration,266,0.29001898428496514,1.4972612467669924e-06
+HE,test,Proposed Biomarker,Std angular acceleration,266,0.26961542078643713,8.217321516838645e-06
+HE,test,Proposed Biomarker,Mean angular velocity,266,0.13937143048420286,0.022997193946227356
+HE,test,Proposed Biomarker,Mean acceleration,266,0.008324074974376794,0.8925134126480405
+LB,test,Avg angular acceleration,Std angular acceleration,266,0.988856814497554,2.0723176799993814e-220
+LB,test,Avg jerk,Std jerk,266,0.9853322090471037,9.358753683333343e-205
+LB,test,Max jerk,Std jerk,266,0.9074905835715003,1.9503698722613587e-101
+LB,test,Avg angular acceleration,Std angular velocity,266,0.8930746412352698,1.4595589017561266e-93
+LB,test,Std angular acceleration,Std angular velocity,266,0.8714175729763246,1.226002051385459e-83
+LB,test,Std jerk,Std acceleration,266,0.865536429583605,2.9840200887068553e-81
+LB,test,Avg jerk,Std acceleration,266,0.863745435243823,1.5106273882354409e-80
+LB,test,Avg jerk,Max jerk,266,0.8424568948340749,7.139754101608462e-73
+LB,test,Mean acceleration,Std acceleration,266,0.8421789049685907,8.83569897127083e-73
+LB,test,Mean acceleration,Std angular velocity,266,0.8067441233994462,2.9039888259229456e-62
+LB,test,Mean angular velocity,Std angular velocity,266,0.7915675344817418,2.096426925091887e-58
+LB,test,Std angular acceleration,Mean angular velocity,266,0.7829421975545181,2.366160582108067e-56
+LB,test,Std acceleration,Std angular velocity,266,0.7819239640334673,4.075205974147072e-56
+LB,test,Avg jerk,Mean acceleration,266,0.7687551505433076,3.5765785440711082e-53
+LB,test,Avg angular acceleration,Mean angular velocity,266,0.763936234480626,3.820537000938644e-52
+LB,test,Avg jerk,Std angular velocity,266,0.76241239095194,7.985523623145468e-52
+LB,test,Avg angular acceleration,Mean acceleration,266,0.7496981801546478,3.0406100393758266e-49
+LB,test,Max jerk,Std acceleration,266,0.7465969354167696,1.2273125367070757e-48
+LB,test,Std angular acceleration,Mean acceleration,266,0.7408566997310959,1.540486594176061e-47
+LB,test,Std jerk,Mean acceleration,266,0.73392608083703,2.9924576890424252e-46
+LB,test,Avg jerk,Avg angular acceleration,266,0.7320483740621428,6.578864610933663e-46
+LB,test,Mean acceleration,Mean angular velocity,266,0.7301483515870448,1.4501356324260694e-45
+LB,test,Std jerk,Std angular velocity,266,0.719455305637424,1.09669035144053e-43
+LB,test,Avg jerk,Std angular acceleration,266,0.7130628139141579,1.324252670549588e-42
+LB,test,Std jerk,Avg angular acceleration,266,0.6747142394889067,1.0935421971520814e-36
+LB,test,Avg angular acceleration,Std acceleration,266,0.6676433504792296,1.0803676295165258e-35
+LB,test,Std jerk,Std angular acceleration,266,0.6582873337679581,2.0349576030222843e-34
+LB,test,Std angular acceleration,Std acceleration,266,0.6428722856537146,2.0545910689283654e-32
+LB,test,Avg jerk,Mean angular velocity,266,0.5864020874743568,5.785783296296848e-26
+LB,test,Proposed Biomarker,Max jerk,266,0.5399911693586308,1.5559668505004888e-21
+LB,test,Max jerk,Mean acceleration,266,0.5397552605278301,1.6322799875784978e-21
+LB,test,Std jerk,Mean angular velocity,266,0.5321838622419947,7.440278939812903e-21
+LB,test,Std acceleration,Mean angular velocity,266,0.5221271325441014,5.2656660125057977e-20
+LB,test,Max jerk,Std angular velocity,266,0.4854509604517973,3.9180440257119786e-17
+LB,test,Proposed Biomarker,Std acceleration,266,0.4665693277076516,8.757186400314037e-16
+LB,test,Proposed Biomarker,Std jerk,266,0.44396479857689597,2.8309802198646844e-14
+LB,test,Max jerk,Avg angular acceleration,266,0.43140807286394917,1.7516069105253166e-13
+LB,test,Max jerk,Std angular acceleration,266,0.4196591754986363,9.01513286527696e-13
+LB,test,Proposed Biomarker,Avg jerk,266,0.3813845616797984,1.2283272395479807e-10
+LB,test,Max jerk,Mean angular velocity,266,0.3063241100419057,3.4784924616311594e-07
+LB,test,Proposed Biomarker,Mean angular velocity,266,-0.16766518798586458,0.0061235931202517115
+LB,test,Proposed Biomarker,Std angular velocity,266,0.15284692545440343,0.012567343872226267
+LB,test,Proposed Biomarker,Mean acceleration,266,0.11471640729978433,0.06171619809005674
+LB,test,Proposed Biomarker,Std angular acceleration,266,-0.0363921251081913,0.5545618560908064
+LB,test,Proposed Biomarker,Avg angular acceleration,266,0.014090451908869057,0.8190730213043401
+LF,test,Avg angular acceleration,Std angular acceleration,266,0.9750650741757935,1.2503205542926146e-174
+LF,test,Avg jerk,Std jerk,266,0.9608748392074101,3.2773111991789445e-149
+LF,test,Mean acceleration,Std acceleration,266,0.9392082070769461,1.4181000137145133e-124
+LF,test,Mean angular velocity,Std angular velocity,266,0.9332951841124967,1.9979002223365737e-119
+LF,test,Mean acceleration,Mean angular velocity,266,0.9311503265265135,1.1277910381505508e-117
+LF,test,Max jerk,Std jerk,266,0.9206447324586641,7.679823193464804e-110
+LF,test,Mean acceleration,Std angular velocity,266,0.8776372774208151,2.7124124281422073e-86
+LF,test,Std acceleration,Std angular velocity,266,0.8558992350496762,1.4152716129820045e-77
+LF,test,Std acceleration,Mean angular velocity,266,0.8420265206157221,9.928913916608041e-73
+LF,test,Avg jerk,Max jerk,266,0.806591101455143,3.188562372128808e-62
+LF,test,Avg jerk,Std acceleration,266,0.7905697038865979,3.66327900486559e-58
+LF,test,Std jerk,Std acceleration,266,0.7473059370920412,8.93704052366126e-49
+LF,test,Avg jerk,Mean acceleration,266,0.7441925781169055,3.570555363419125e-48
+LF,test,Avg angular acceleration,Std angular velocity,266,0.7345866255632723,2.264555566034005e-46
+LF,test,Avg angular acceleration,Mean angular velocity,266,0.7341658152164384,2.704820660501132e-46
+LF,test,Avg angular acceleration,Mean acceleration,266,0.7318819626977131,7.052320197704326e-46
+LF,test,Std angular acceleration,Mean angular velocity,266,0.7162660732815715,3.833303211461598e-43
+LF,test,Std angular acceleration,Mean acceleration,266,0.7149016276115348,6.513491139076701e-43
+LF,test,Avg jerk,Avg angular acceleration,266,0.7135429202644092,1.1008973123935255e-42
+LF,test,Std angular acceleration,Std angular velocity,266,0.7090051820243846,6.215221497828744e-42
+LF,test,Avg jerk,Std angular acceleration,266,0.6894477023595665,7.490925423288643e-39
+LF,test,Std jerk,Mean acceleration,266,0.6612368317444024,8.157447923927058e-35
+LF,test,Avg angular acceleration,Std acceleration,266,0.6504762011027144,2.180978782309833e-33
+LF,test,Avg jerk,Std angular velocity,266,0.6371199357307834,1.0752365041621024e-31
+LF,test,Max jerk,Std acceleration,266,0.6318011479833779,4.815908026670641e-31
+LF,test,Std angular acceleration,Std acceleration,266,0.6255814435388874,2.680800008206504e-30
+LF,test,Avg jerk,Mean angular velocity,266,0.5958084739089615,5.965878167888762e-27
+LF,test,Std jerk,Avg angular acceleration,266,0.5646608571460451,8.399347311476514e-24
+LF,test,Std jerk,Std angular acceleration,266,0.5563115973100017,5.1628550972036934e-23
+LF,test,Std jerk,Std angular velocity,266,0.5355497074252304,3.80863317650062e-21
+LF,test,Max jerk,Mean acceleration,266,0.5006300997352402,2.7946747441209743e-18
+LF,test,Std jerk,Mean angular velocity,266,0.4847534354223485,4.409704735101122e-17
+LF,test,Proposed Biomarker,Max jerk,266,0.45709089344093756,3.88118626214203e-15
+LF,test,Proposed Biomarker,Std jerk,266,0.3833553568041367,9.682430168053185e-11
+LF,test,Max jerk,Std angular velocity,266,0.3641836199572495,9.168798700003081e-10
+LF,test,Proposed Biomarker,Avg jerk,266,0.32172959428463044,8.055481996898122e-08
+LF,test,Max jerk,Std angular acceleration,266,0.3109319833397358,2.265310043263426e-07
+LF,test,Max jerk,Avg angular acceleration,266,0.3099424414332418,2.4853982138046524e-07
+LF,test,Max jerk,Mean angular velocity,266,0.3051228877791256,3.8853213237495973e-07
+LF,test,Proposed Biomarker,Std acceleration,266,0.2200318476921581,0.0002990438470688391
+LF,test,Proposed Biomarker,Std angular velocity,266,0.1346647305140103,0.02809308739280891
+LF,test,Proposed Biomarker,Mean acceleration,266,0.09333605372345428,0.12891046976063128
+LF,test,Proposed Biomarker,Std angular acceleration,266,-0.0855459615755522,0.16416684255689254
+LF,test,Proposed Biomarker,Avg angular acceleration,266,-0.04983765328096583,0.4182260261682466
+LF,test,Proposed Biomarker,Mean angular velocity,266,-0.00037777292499852554,0.9951071839927098
+RF,test,Avg angular acceleration,Std angular acceleration,266,0.9723380956100235,9.306563084168863e-169
+RF,test,Avg jerk,Std jerk,266,0.9667158143397502,2.597848200990932e-158
+RF,test,Mean acceleration,Std acceleration,266,0.9450861625124928,3.1116064975939182e-130
+RF,test,Mean acceleration,Mean angular velocity,266,0.9299924604812858,9.428639625935913e-117
+RF,test,Mean angular velocity,Std angular velocity,266,0.9094428885442353,1.333735344991465e-102
+RF,test,Max jerk,Std jerk,266,0.9003042905121613,2.3222352410418855e-97
+RF,test,Mean acceleration,Std angular velocity,266,0.8630523733544163,2.8121337006935097e-80
+RF,test,Std acceleration,Std angular velocity,266,0.8559056109640224,1.407657456974391e-77
+RF,test,Avg jerk,Std acceleration,266,0.8482366611886935,7.719752995947285e-75
+RF,test,Std acceleration,Mean angular velocity,266,0.8344653237928401,2.7874696785156432e-70
+RF,test,Avg angular acceleration,Std angular velocity,266,0.8338105173895094,4.481279253391588e-70
+RF,test,Std angular acceleration,Std angular velocity,266,0.8277891038811783,3.208530248943909e-68
+RF,test,Std jerk,Std acceleration,266,0.812900068700477,6.293970746503006e-64
+RF,test,Avg jerk,Avg angular acceleration,266,0.8086173670342913,9.183769672931037e-63
+RF,test,Avg jerk,Max jerk,266,0.7927183870211887,1.097145448502849e-58
+RF,test,Avg jerk,Mean acceleration,266,0.7848849386557342,8.317768813343943e-57
+RF,test,Avg angular acceleration,Mean acceleration,266,0.783647373681182,1.6209909508159425e-56
+RF,test,Avg angular acceleration,Mean angular velocity,266,0.7820859122578547,3.7383720173033445e-56
+RF,test,Avg jerk,Std angular acceleration,266,0.7788252696613274,2.093704127614732e-55
+RF,test,Avg angular acceleration,Std acceleration,266,0.7656749463227711,1.6361721055215082e-52
+RF,test,Std angular acceleration,Mean angular velocity,266,0.765178900186655,2.085581203740937e-52
+RF,test,Std angular acceleration,Mean acceleration,266,0.7589145643417426,4.2482984196502465e-51
+RF,test,Std angular acceleration,Std acceleration,266,0.7436997199379624,4.437746773469925e-48
+RF,test,Std jerk,Mean acceleration,266,0.7289235384411845,2.405131971440365e-45
+RF,test,Avg jerk,Std angular velocity,266,0.7283701090759548,3.020160572307988e-45
+RF,test,Std jerk,Avg angular acceleration,266,0.6842092511329203,4.557239476836981e-38
+RF,test,Std jerk,Std angular acceleration,266,0.6763362720985207,6.4081331993697375e-37
+RF,test,Avg jerk,Mean angular velocity,266,0.6651063741609696,2.420200794681957e-35
+RF,test,Std jerk,Std angular velocity,266,0.6536144261437992,8.481199919969793e-34
+RF,test,Max jerk,Std acceleration,266,0.6522385038279396,1.2849944317174178e-33
+RF,test,Std jerk,Mean angular velocity,266,0.5853207324012809,7.477271720864627e-26
+RF,test,Proposed Biomarker,Max jerk,266,0.5515028827102737,1.4359400586339294e-22
+RF,test,Max jerk,Mean acceleration,266,0.5353450405747249,3.9677654036441506e-21
+RF,test,Proposed Biomarker,Std jerk,266,0.4625894819728992,1.6455188707867452e-15
+RF,test,Max jerk,Std angular velocity,266,0.43480962316752236,1.0770548490654712e-13
+RF,test,Max jerk,Std angular acceleration,266,0.4137844080202626,1.9977033089834575e-12
+RF,test,Max jerk,Avg angular acceleration,266,0.40620727141151586,5.449929686184848e-12
+RF,test,Proposed Biomarker,Avg jerk,266,0.39816469305551355,1.538654718612757e-11
+RF,test,Max jerk,Mean angular velocity,266,0.3552184467953857,2.4961316252432662e-09
+RF,test,Proposed Biomarker,Std acceleration,266,0.24817003288377823,4.264241802999407e-05
+RF,test,Proposed Biomarker,Std angular velocity,266,0.1544262394378994,0.01167227485266402
+RF,test,Proposed Biomarker,Mean acceleration,266,0.10461632138433853,0.088590362037103
+RF,test,Proposed Biomarker,Avg angular acceleration,266,0.10093741880671576,0.1004482273866432
+RF,test,Proposed Biomarker,Std angular acceleration,266,0.09772013242774097,0.1118192120720981
+RF,test,Proposed Biomarker,Mean angular velocity,266,-0.006213647325861825,0.919657442745844
+Timing,test,Avg stride time,Gait cadence,266,-0.9959495364947358,3.183033460126434e-278
+Timing,test,Max stride time,Std stride time,266,0.9442960126360549,1.945561343063669e-129
+Timing,test,Max stride time,Gait cadence,266,-0.5797907491814109,2.734587120552912e-25
+Timing,test,Avg stride time,Max stride time,266,0.5605601186781132,2.062374616042487e-23
+Timing,test,U-turn time,Gait cadence,266,-0.4806328355514478,8.817059120016665e-17
+Timing,test,Avg stride time,U-turn time,266,0.4378139803236176,6.977919832666281e-14
+Timing,test,Max stride time,U-turn time,266,0.42445525389449257,4.654148828001179e-13
+Timing,test,Std stride time,Gait cadence,266,-0.3931708153720139,2.8905509924041568e-11
+Timing,test,Avg stride time,Std stride time,266,0.3747303984038581,2.71099540276866e-10
+Timing,test,Std stride time,U-turn time,266,0.3190669939271937,1.043449089891201e-07
+Timing,test,Proposed Biomarker,U-turn time,266,-0.2597232639152622,1.7879063885279102e-05
+Timing,test,Proposed Biomarker,Std stride time,266,-0.15464939644000822,0.011550445946864081
+Timing,test,Proposed Biomarker,Max stride time,266,-0.13944384496317908,0.02292548180731615
+Timing,test,Proposed Biomarker,Avg stride time,266,0.10935746872334705,0.07499246677911652
+Timing,test,Proposed Biomarker,Gait cadence,266,-0.06656078388119349,0.2794031686297917
