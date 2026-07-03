@@ -33,14 +33,14 @@ Superior discrimination compared with conventional gait measures.
 <p align="center"> <img src="contrastive_time_derivative_embedding_plots/pca_category_all_embeddings.png" width="900"> </p>
 
 Repository Structure
-├── data/                # Dataset loaders
-├── models/              # CNN encoder and projection head
-├── training/            # Supervised contrastive training
-├── biomarker/           # EDGB construction
-├── evaluation/          # Statistical analysis and metrics
-├── figures/             # Paper figures
-├── notebooks/           # Example notebooks
-└── README.md
+├── data/                # Dataset loaders<br>
+├── models/              # CNN encoder and projection head<br>
+├── training/            # Supervised contrastive training<br>
+├── biomarker/           # EDGB construction<br>
+├── evaluation/          # Statistical analysis and metrics<br>
+├── figures/             # Paper figures<br>
+├── notebooks/           # Example notebooks<br>
+└── README.md<br>
 
 **Dataset**
 Experiments are conducted on the publicly available Voisard Gait Dataset:
@@ -58,7 +58,8 @@ Training
 python train.py
 Evaluation
 python evaluate.py
-Citation
+
+**Citation**
 
 If you find this repository useful, please cite:
 
@@ -68,14 +69,8 @@ If you find this repository useful, please cite:
   journal={Preprint},
   year={2026}
 }
-Contact
+
+**Contact**
 
 Seyed Mehdi Mohtavipour
-PhD Researcher – AI for Movement Disorders
-Radboud University Medical Center, The Netherlands
-
 Email: mahyar.m1990@gmail.com
-
-License
-
-This project is released under the MIT License.
