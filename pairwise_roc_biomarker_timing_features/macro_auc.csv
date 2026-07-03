@@ -1,0 +1,7 @@
+feature,feature_label,macro_auc,macro_raw_auc,n_pairs,total_n
+distance_healthy_plus_neuro_minus_ortho,EDGB (This Work),0.9285457867568087,0.6579631021613852,3,532
+RF_FreeAcc_Magnitude_u_turn_time,U-turn time,0.7647887334262299,0.6574777392417935,3,532
+RF_FreeAcc_Magnitude_std_stride_time,Std stride time,0.6932682177766641,0.6315124714460079,3,532
+RF_FreeAcc_Magnitude_max_stride_time,Max stride time,0.691131888307186,0.6182988780607169,3,532
+RF_FreeAcc_Magnitude_gait_cadence,Gait cadence,0.5954846229700842,0.40451537702991597,3,532
+RF_FreeAcc_Magnitude_avg_stride_time,Avg stride time,0.5927054165769203,0.5927054165769203,3,532

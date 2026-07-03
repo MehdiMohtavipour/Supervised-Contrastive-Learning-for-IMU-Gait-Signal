@@ -1,0 +1,19 @@
+pair,group_a,group_b,positive_class_raw,feature,feature_label,n,n_group_a,n_group_b,raw_auc,auc,score_flipped_for_auc,higher_score_group
+healthy_vs_neuro,healthy,neuro,neuro,RF_FreeAcc_Magnitude_avg_stride_time,Avg stride time,220,63,157,0.5989788696795066,0.5989788696795066,False,neuro
+healthy_vs_ortho,healthy,ortho,ortho,RF_FreeAcc_Magnitude_avg_stride_time,Avg stride time,109,63,46,0.6421670117322291,0.6421670117322291,False,ortho
+neuro_vs_ortho,neuro,ortho,ortho,RF_FreeAcc_Magnitude_avg_stride_time,Avg stride time,203,157,46,0.5369703683190252,0.5369703683190252,False,ortho
+healthy_vs_neuro,healthy,neuro,neuro,RF_FreeAcc_Magnitude_gait_cadence,Gait cadence,220,63,157,0.3722070569204327,0.6277929430795675,True,healthy
+healthy_vs_ortho,healthy,ortho,ortho,RF_FreeAcc_Magnitude_gait_cadence,Gait cadence,109,63,46,0.3521394064872326,0.6478605935127674,True,healthy
+neuro_vs_ortho,neuro,ortho,ortho,RF_FreeAcc_Magnitude_gait_cadence,Gait cadence,203,157,46,0.48919966768208256,0.5108003323179175,True,neuro
+healthy_vs_neuro,healthy,neuro,neuro,RF_FreeAcc_Magnitude_max_stride_time,Max stride time,220,63,157,0.7771206147002325,0.7771206147002325,False,neuro
+healthy_vs_ortho,healthy,ortho,ortho,RF_FreeAcc_Magnitude_max_stride_time,Max stride time,109,63,46,0.6870255348516219,0.6870255348516219,False,ortho
+neuro_vs_ortho,neuro,ortho,ortho,RF_FreeAcc_Magnitude_max_stride_time,Max stride time,203,157,46,0.3907504846302964,0.6092495153697036,True,neuro
+healthy_vs_neuro,healthy,neuro,neuro,RF_FreeAcc_Magnitude_std_stride_time,Std stride time,220,63,157,0.7673642705489839,0.7673642705489839,False,neuro
+healthy_vs_ortho,healthy,ortho,ortho,RF_FreeAcc_Magnitude_std_stride_time,Std stride time,109,63,46,0.7198067632850241,0.7198067632850241,False,ortho
+neuro_vs_ortho,neuro,ortho,ortho,RF_FreeAcc_Magnitude_std_stride_time,Std stride time,203,157,46,0.4073663805040155,0.5926336194959845,True,neuro
+healthy_vs_neuro,healthy,neuro,neuro,RF_FreeAcc_Magnitude_u_turn_time,U-turn time,220,63,157,0.851481144474775,0.851481144474775,False,neuro
+healthy_vs_ortho,healthy,ortho,ortho,RF_FreeAcc_Magnitude_u_turn_time,U-turn time,109,63,46,0.7819185645272603,0.7819185645272603,False,ortho
+neuro_vs_ortho,neuro,ortho,ortho,RF_FreeAcc_Magnitude_u_turn_time,U-turn time,203,157,46,0.33903350872334537,0.6609664912766546,True,neuro
+healthy_vs_neuro,healthy,neuro,neuro,distance_healthy_plus_neuro_minus_ortho,EDGB (This Work),220,63,157,0.09412597310686485,0.9058740268931351,True,healthy
+healthy_vs_ortho,healthy,ortho,ortho,distance_healthy_plus_neuro_minus_ortho,EDGB (This Work),109,63,46,0.8847481021394065,0.8847481021394065,False,ortho
+neuro_vs_ortho,neuro,ortho,ortho,distance_healthy_plus_neuro_minus_ortho,EDGB (This Work),203,157,46,0.9950152312378843,0.9950152312378843,False,ortho
