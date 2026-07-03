@@ -73,15 +73,6 @@ https://github.com/CyrilVoisard/dataset_gait_1<br>
 Dataset:<br>
 https://doi.org/10.6084/m9.figshare.28806086<br>
 
-Installation
-git clone https://github.com/<username>/EDGB.git
-cd EDGB
-pip install -r requirements.txt
-Training
-python train.py
-Evaluation
-python evaluate.py
-
 ## Citation
 
 If you find this repository useful, please cite:
